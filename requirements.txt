@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+joblib
+streamlit
+plotly
+
+# Only needed for the Colab notebook (LSTM training + SHAP) — not required
+# for local preprocessing/baseline/dashboard:
+# torch
+# shap

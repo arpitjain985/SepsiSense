@@ -1,0 +1,23 @@
+# Raw patient data — do NOT commit real/large patient data to GitHub
+data/raw/
+data/processed/*.csv
+
+# Trained model weights — large binary files, regenerate via the notebook instead
+*.joblib
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS/editor
+.DS_Store
+.vscode/
+*.log
+
+# Streamlit
+.streamlit/
