@@ -100,7 +100,7 @@ recency-aware lab features, patient-level train/val/test split
 
 ### 1. Clone and install
 ```bash
-git clone https://github.com/<your-username>/sepsisense.git
+git clone https://github.com/arpitjain985//sepsisense.git
 cd sepsisense
 pip install -r requirements.txt
 ```
